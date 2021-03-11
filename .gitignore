@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 client/src/compiled/
 server/.env
+client/.env
+.env
